@@ -28,6 +28,6 @@ Embora a escrita manual de código esteja se tornando opcional em muitas etapas,
 
 | Como rodar o projeto
 
--Baixe o arquivo index.html.
+-Baixe o arquivo .html.
 
 -Abra em qualquer navegador moderno.
