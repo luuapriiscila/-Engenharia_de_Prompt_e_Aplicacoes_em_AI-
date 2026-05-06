@@ -10,7 +10,7 @@ O desenvolvimento deste projeto foi uma exploração prática sobre a sinergia e
 
 -Desafios: Notou-se dificuldade em definir detalhes visuais extremos e especificidades de design (como o upload de imagens personalizadas) diretamente pela interface simplificada.
 
-✍️ A Arte da Engenharia de Prompt
+-✍️ A Arte da Engenharia de Prompt
 
 -Qualidade do Input: O sucesso do código gerado foi diretamente proporcional à clareza do prompt. Prompts vagos geraram resultados genéricos ou imprecisos.  
 
@@ -18,11 +18,11 @@ O desenvolvimento deste projeto foi uma exploração prática sobre a sinergia e
 
 -Direcionamento Técnico: Saber "guiar em código" — ou seja, descrever logicamente como cada função deve ser escrita — acelera drasticamente a chegada ao código desejado.
 
-🤖 Ferramentas Utilizadas
+-🤖 Ferramentas Utilizadas
 
 -IA de Suporte: GitHub Copilot para assistência em tempo real e sugestões de sintaxe.  
 
-📝 Conclusão
+-📝 Conclusão
 
 Embora a escrita manual de código esteja se tornando opcional em muitas etapas, o domínio da lógica de programação é indispensável para formular prompts eficientes. O foco dessas ferramentas parece ser o ganho de tempo em tarefas repetitivas, permitindo ao desenvolvedor focar na estratégia e no fluxo do projeto.
 
