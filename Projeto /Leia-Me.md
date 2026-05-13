@@ -2,32 +2,39 @@
 
 Este projeto é um jogo de treino de cálculo mental desenvolvido para testar a agilidade de raciocínio de forma lúdica e visual.
 
-|🛠️ Processo de Desenvolvimento & Insights
+|⚙️ Plataforma Utilizada
 
-O desenvolvimento deste projeto foi uma exploração prática sobre a sinergia entre o Vibecode e o GitHub Copilot, focando em agilidade e otimização de código. Abaixo, os principais aprendizados documentados:
+O desenvolvimento deste projeto foi utilizado o GitHub Copilot, focando em agilidade e otimização de código.
 
--Velocidade: O Vibecode demonstrou uma agilidade impressionante na estruturação inicial do projeto.  
+- Justificativa da escolha: Eu escolhi o GitHub Copilot principalmente pela praticidade de já estar integrado ao GitHub, o que facilitou bastante o acesso e a referência aos diretórios do projeto. Além disso, gostei muito da lógica e da qualidade das respostas da ferramenta. Com prompts bem estruturados, ele entregou resultados muito coerentes e úteis. Mesmo quando os prompts não estavam tão detalhados, percebi que a IA conseguia se adaptar bem para gerar boas soluções. Outro ponto que me fez escolher o Copilot foi a agilidade e a competência no retorno das respostas, tornando o desenvolvimento mais rápido e eficiente.
 
--Desafios: Notou-se dificuldade em definir detalhes visuais extremos e especificidades de design (como o upload de imagens personalizadas) diretamente pela interface simplificada.
+| ✅ Vantagens Identificadas
 
-|✍️ A Arte da Engenharia de Prompt
+1. Praticidade em projetos
+2. Qualidade do Input: O sucesso do código gerado foi diretamente proporcional à clareza do prompt. Prompts vagos geraram resultados genéricos ou imprecisos.
 
--Qualidade do Input: O sucesso do código gerado foi diretamente proporcional à clareza do prompt. Prompts vagos geraram resultados genéricos ou imprecisos.  
+| ⚠️ Limitações Encontradas
 
--Refinamento: Ao melhorar a especificidade das instruções, os resultados atingiram um nível de fidelidade muito superior.  
+1. Dificuldade em desenvolver coisas maiores: O vibecode me limitou em não conseguir desenvolver uma imagem detalhada do meu personagem o pato.
+2. Pela falta de conhecimentos na linguagem de marcação que eu utilizei, me senti limitada por não desenvolver melhores prompts com restrições maiores.
 
--Direcionamento Técnico: Saber "guiar em código" — ou seja, descrever logicamente como cada função deve ser escrita — acelera drasticamente a chegada ao código desejado.
-
-|🤖 Ferramentas Utilizadas
-
--IA de Suporte: GitHub Copilot para assistência em tempo real e sugestões de sintaxe.  
-
-|📝 Conclusão
+| 📚 Reflexão Crítica
 
 Embora a escrita manual de código esteja se tornando opcional em muitas etapas, o domínio da lógica de programação é indispensável para formular prompts eficientes. O foco dessas ferramentas parece ser o ganho de tempo em tarefas repetitivas, permitindo ao desenvolvedor focar na estratégia e no fluxo do projeto.
+Eu apesar da falta de conhecimentos da sintaxe da linguagem, eu recorri a própria LLMs, para me explicar e refatorar o que precisava entenderr para continuar o projeto, a funcionalidade foi dever cumprido, mas a estética  não consegui alcançar do jeito que pensei, numa forma mais desenvolvida.
 
-| Como rodar o projeto
+| 👥 Colaboração
 
--Baixe o arquivo .html.
+Realizei a tarefa sozinha.
 
--Abra em qualquer navegador moderno.
+## 📝 Registro da Aula
+-Data: **12/05/2026**  
+
+-Atividade: Discussão crítica + mini-projeto de aplicação
+
+-Local: Laboratório de informática / Quadro branco 
+
+-Professor(a): Kadidja Valéria
+
+
+-Estudante: Luanna Priscila
