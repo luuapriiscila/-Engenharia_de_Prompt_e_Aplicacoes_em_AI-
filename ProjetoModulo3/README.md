@@ -16,6 +16,7 @@ O desenvolvimento deste projeto foi utilizado o GitHub Copilot, focando em agili
 2. Pela falta de conhecimentos na linguagem de marcação que eu utilizei, me senti limitada por não desenvolver melhores prompts com restrições maiores.
 
 | 📚 Reflexão Crítica
+
 Embora a escrita manual de código esteja se tornando opcional em muitas etapas, o domínio da lógica de programação é indispensável para formular prompts eficientes. O foco dessas ferramentas parece ser o ganho de tempo em tarefas repetitivas, permitindo ao desenvolvedor focar na estratégia e no fluxo do projeto.
 Eu apesar da falta de conhecimentos da sintaxe da linguagem, eu recorri a própria LLMs, para me explicar e refatorar o que precisava entenderr para continuar o projeto, a funcionalidade foi dever cumprido, mas a estética  não consegui alcançar do jeito que pensei, numa forma mais desenvolvida.
 
