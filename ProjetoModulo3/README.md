@@ -3,6 +3,7 @@
 Este projeto é um jogo de treino de cálculo mental desenvolvido para testar a agilidade de raciocínio de forma lúdica e visual.
 
 |⚙️ Plataforma Utilizada
+
 O desenvolvimento deste projeto foi utilizado o GitHub Copilot, focando em agilidade e otimização de código.
 
 - Justificativa da escolha: Eu escolhi o GitHub Copilot principalmente pela praticidade de já estar integrado ao GitHub, o que facilitou bastante o acesso e a referência aos diretórios do projeto. Além disso, gostei muito da lógica e da qualidade das respostas da ferramenta. Com prompts bem estruturados, ele entregou resultados muito coerentes e úteis. Mesmo quando os prompts não estavam tão detalhados, percebi que a IA conseguia se adaptar bem para gerar boas soluções. Outro ponto que me fez escolher o Copilot foi a agilidade e a competência no retorno das respostas, tornando o desenvolvimento mais rápido e eficiente.
