@@ -7,8 +7,7 @@ Este projeto é um jogo de treino de cálculo mental desenvolvido para testar a 
 O desenvolvimento deste projeto foi utilizado o GitHub Copilot, focando em agilidade e otimização de código.
 
 - Justificativa da escolha: Eu escolhi o GitHub Copilot principalmente pela praticidade de já estar integrado ao GitHub, o que facilitou bastante o acesso e a referência aos diretórios do projeto. Além disso, gostei muito da lógica e da qualidade das respostas da ferramenta. Com prompts bem estruturados, ele entregou resultados muito coerentes e úteis. Mesmo quando os prompts não estavam tão detalhados, percebi que a IA conseguia se adaptar bem para gerar boas soluções. Outro ponto que me fez escolher o Copilot foi a agilidade e a competência no retorno das respostas, tornando o desenvolvimento mais rápido e eficiente.
-
-| 
+  
 
 | ✅ Vantagens Identificadas
 
@@ -20,10 +19,11 @@ O desenvolvimento deste projeto foi utilizado o GitHub Copilot, focando em agili
 1. Dificuldade em desenvolver coisas maiores: O vibecode me limitou em não conseguir desenvolver uma imagem detalhada do meu personagem o pato.
 2. Pela falta de conhecimentos na linguagem de marcação que eu utilizei, me senti limitada por não desenvolver melhores prompts com restrições maiores.
 
-| 🧠 Reflexão Crítica                          
+| 🧠 Motivação                         
 O intuito do meu projeto é ajudar as pessoas a praticarem cálculo mental de forma simples, acessível e agradável. A proposta é oferecer uma ferramenta que auxilie tanto no desenvolvimento da memorização quanto na prática constante de exercícios mentais, estimulando o raciocínio lógico e a agilidade nos cálculos do dia a dia.
 
 Além da parte funcional, a estética do projeto também foi pensada com cuidado, buscando criar uma experiência visual confortável e acolhedora. Acredito que um ambiente agradável torna o aprendizado mais leve, motivador e eficiente para quem utiliza a aplicação.
+
 
 | 📚 Reflexão Crítica
 
