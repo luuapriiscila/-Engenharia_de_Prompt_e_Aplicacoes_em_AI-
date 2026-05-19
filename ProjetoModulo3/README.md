@@ -22,6 +22,7 @@ Embora a escrita manual de código esteja se tornando opcional em muitas etapas,
 Eu apesar da falta de conhecimentos da sintaxe da linguagem, eu recorri a própria LLMs, para me explicar e refatorar o que precisava entenderr para continuar o projeto, a funcionalidade foi dever cumprido, mas a estética  não consegui alcançar do jeito que pensei, numa forma mais desenvolvida.
 
 | 👥 Colaboração
+
 Realizei a tarefa sozinha.
 
 ## 📝 Registro da Aula
@@ -29,4 +30,5 @@ Realizei a tarefa sozinha.
 -Atividade: Discussão crítica + mini-projeto de aplicação  
 -Local: Laboratório de informática / Quadro branco  
 -Professor(a): Kadidja Valéria
+
 -Estudante: Luanna Priscila
